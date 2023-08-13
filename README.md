@@ -29,5 +29,5 @@ This project uses the siem.py script provided by Sophos to pull alert data from 
 
 ## 📚 References
 
-[Teams JSON Format](https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using?tabs=cURL)
-[Sophos GitHub](https://github.com/sophos/Sophos-Central-SIEM-Integration)
+* [Teams JSON Format](https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using?tabs=cURL)
+* [Sophos GitHub](https://github.com/sophos/Sophos-Central-SIEM-Integration)
