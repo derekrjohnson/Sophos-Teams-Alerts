@@ -4,7 +4,7 @@ Securely integrate Sophos Central with Microsoft Teams to streamline your cybers
 
 ## 📜 Description
 
-This repository hosts a Python script provided by Sophos. The script utilizes `config.ini` to configure crucial parameters such as client secret, client ID, and tenant ID. It also includes a custom `SiemPy.ps1` script.
+This project uses the siem.py script provided by Sophos to call the to the security alerts endpoint. The output of the api request is sent to a output file. My custom powershell script SiemPy.ps1 takes the json data output, reformats the json data to send to a Teams webhook url, and finally sends the alert to the Teams channel. 
 
 ## 🚀 Getting Started
 
