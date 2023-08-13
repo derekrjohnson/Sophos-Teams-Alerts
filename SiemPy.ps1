@@ -1,19 +1,14 @@
-# Set environment variables
-# $Env:TEAMS_WEBHOOK_URL = "C:\processing\sophos_teams_alerts\webhook-url"
-
 # Calculate the Unix timestamp for one minute ago
 # $unix_timestamp = [int][double]::Parse((Get-Date (Get-Date).AddMinutes(-2) -UFormat %s))
 
 # paths
 $pythonPath = "C:\Program Files\Python311\python.exe"
-$siemPath = "C:\processing\sophos_teams_alerts\siem.py"
+$siemPath = "<YOUR_PATH>\siem.py"
+$input_file = '<YOUR_PATH>\result.txt'
 
 # Run the python script
 Start-Process -FilePath $pythonPath -ArgumentList $siemPath, "-q", "-l" -Wait
 Write-Host "siem.py has run successfully."
-
-# Set input file path
-$input_file = 'C:\processing\sophos_teams_alerts\log\result.txt'
 
 # Check if the input file exists and has content
 if ((Test-Path $input_file) -and (Get-Item $input_file).Length -gt 0) {
