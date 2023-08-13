@@ -4,7 +4,7 @@ Securely integrate Sophos Central with Microsoft Teams to streamline your cybers
 
 ## 📜 Description
 
-This project uses the siem.py script provided by Sophos to call the to the security alerts endpoint. The output of the api request is sent to a output file. My custom powershell script SiemPy.ps1 takes the json data output, reformats the json data to send to a Teams webhook url, and finally sends the alert to the Teams channel. 
+This project uses the siem.py script provided by Sophos to pull alert data from the security alerts endpoint. The output of the api request is sent to result.txt. My custom powershell script SiemPy.ps1 inputs the json data from result.txt, reformats the json data to send to a Teams webhook url, and finally sends the alert to the Teams channel. 
 
 ## 🚀 Getting Started
 
