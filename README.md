@@ -1,24 +1,23 @@
-# Sophos Teams Alerts #
+# 👾 Sophos Teams Alerts 👾
 
-This project runs a python script provided by sophos that uses config.ini which is where you specifiy the client secret, client id, and tennant id.
+Securely integrate Sophos Central with Microsoft Teams to streamline your cybersecurity alerts!
 
-### What is this repository for? ###
+## 📜 Description
 
-This repository contains all the files for the sophos provided siem.py script and the custom SiemPy.ps1 script.
+This repository hosts a Python script provided by Sophos. The script utilizes `config.ini` to configure crucial parameters such as client secret, client ID, and tenant ID. It also includes a custom `SiemPy.ps1` script.
 
-### Getting Started ###
+## 🚀 Getting Started
 
-* Clone this repo to the production environment.
-* Replace the <CLIENT_SECRET> <CLIENT_ID> <TENNANT_ID> in Config.ini.
-* Set an environment variable in the test environment to store the teams webhook.
-* Set a task to run the script every minute of every day.
+1. 📥 Clone this repository to your production environment.
+2. 🛠 Modify the `Config.ini` file, replacing `<CLIENT_SECRET>`, `<CLIENT_ID>`, and `<TENANT_ID>` with your credentials.
+3. 🧩 Configure an environment variable in your test environment to store the Teams webhook.
+4. 🕰 Schedule a recurring task to run the script every minute, ensuring continuous monitoring.
 
-### Warning: This is the production repository all tests should be implemented into the test repository ###
+## 🎓 Author
 
-### Author ###
+👤 **Derek Johnson**
 
-Derek
+## 📚 References
 
-### References ###
- * [Teams Json Format](https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using?tabs=cURL)
- * [Sophos Github](https://github.com/sophos/Sophos-Central-SIEM-Integration)
+[Teams JSON Format](https://learn.microsoft.com/en-us/microsoftteams/platform/webhooks-and-connectors/how-to/connectors-using?tabs=cURL)
+[Sophos GitHub](https://github.com/sophos/Sophos-Central-SIEM-Integration)
