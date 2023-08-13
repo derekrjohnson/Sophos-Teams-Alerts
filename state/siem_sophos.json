@@ -1,0 +1,24 @@
+{
+    "account": {
+        "4904b01c-9525-4243-9da8-468bcf9eedc5": {
+            "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFIaXNtSjFSZmIwRWJqYjJ6dy01LVhTNlFiYXBaZWtOcVpsVU51TVdac2cifQ.eyJhcHBfaW5mbyI6eyJhY2NvdW50VHlwZSI6ImN1c3RvbWVyIn0sImF1ZCI6ImFwaTovL2NlbnRyYWwtcHJvdmlzaW9uaW5nIiwiYXV0aF90aW1lIjoxNjg2ODU3MzYzLCJjbGllbnRfaWQiOiI0OTA0YjAxYy05NTI1LTQyNDMtOWRhOC00NjhiY2Y5ZWVkYzUiLCJleHAiOjE2ODY4NjA5NjMsImdpZCI6IjlhYWViZGUxLTIxZDItNDc0Yi04YTVhLTg4NTQ1Y2Y5Y2RmYyIsImp0aSI6IklELjc1YzZjZGExLWRkOGItNDJhYy04MjJlLTE4MTJkYTIyNGU5MiIsImlhdCI6MTY4Njg1NzM2MywiaXNzIjoiaHR0cHM6Ly9pZC5zb3Bob3MuY29tIiwicnRfaGFzaCI6IjBzbU9mSWpyZlA2ZjlESGN2dXVIUkE9PSIsInZlciI6MX0.azbruP1gVb5Kz03q3qWXrcCUa6DuCQRPwfZ2bBLwWqYSEQdLMrOy8_9R2Ir2cO-cS5fngatbEaVXNhyp98rGR2FLMkYWY_oDX-7Yo4wohkeQ_FwSiwwDWvIMGKql63ld4JTgWOA3ODvK7N6_JCP0rvl-QajbROtqg812kZcfEmyBoJOC4vnUWxhD1egY47RpfqnVzATkl4zjYXDRKsYI1PnVil4PPDEEExeBBqFLAe-WeW-OvHGrAeeLAodj6YBmZEAOky3MyhezVyU98aOT0DpJP84qo8FmHl9Lv9jxPUl0vDRE7wXRIJFslpX1oHxJzDo1lk5B8ue9_01G6yCMANfNUtk_r5TF8r2EMo2XptxFuiu4QvHU2UfLwk_43Ub1SNOzoTOPblQH9dmfx4cVc5WhekzDpIRdlX6tSbgj0ac9phkQjXQTLM9jfwkHjUIzqksj7SlZ5y-fPI1M2MJT1_2w6szkY8hFZpi40nxYwmtXc2DrumOvxdafukYsg7ACOGtWBhL19ZAhwk1SQiN5jni0ykeprnDHKnxsg1_DHg3WDGR2aGNuPzKmHlfuv5b7UvttNkBEDay_qz1BkBTMp8xIEJFP0P-WLtVAuGODZvvcdpt5DqoOAgTRTu5aUxcxZFZSYhCW9mkGTV9rKdjZHDALo5Z6yR5N-CIkZOhLoqk",
+            "jwtExpiresAt": 1686860843.2144709,
+            "whoami": {
+                "id": "9aaebde1-21d2-474b-8a5a-88545cf9cdfc",
+                "idType": "tenant",
+                "apiHosts": {
+                    "global": "https://api.central.sophos.com",
+                    "dataRegion": "https://api-us03.central.sophos.com"
+                },
+                "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjFIaXNtSjFSZmIwRWJqYjJ6dy01LVhTNlFiYXBaZWtOcVpsVU51TVdac2cifQ.eyJhcHBfaW5mbyI6eyJhY2NvdW50VHlwZSI6ImN1c3RvbWVyIn0sImF1ZCI6ImFwaTovL2NlbnRyYWwtcHJvdmlzaW9uaW5nIiwiYXV0aF90aW1lIjoxNjg2ODU3MzYzLCJjbGllbnRfaWQiOiI0OTA0YjAxYy05NTI1LTQyNDMtOWRhOC00NjhiY2Y5ZWVkYzUiLCJleHAiOjE2ODY4NjA5NjMsImdpZCI6IjlhYWViZGUxLTIxZDItNDc0Yi04YTVhLTg4NTQ1Y2Y5Y2RmYyIsImp0aSI6IklELjc1YzZjZGExLWRkOGItNDJhYy04MjJlLTE4MTJkYTIyNGU5MiIsImlhdCI6MTY4Njg1NzM2MywiaXNzIjoiaHR0cHM6Ly9pZC5zb3Bob3MuY29tIiwicnRfaGFzaCI6IjBzbU9mSWpyZlA2ZjlESGN2dXVIUkE9PSIsInZlciI6MX0.azbruP1gVb5Kz03q3qWXrcCUa6DuCQRPwfZ2bBLwWqYSEQdLMrOy8_9R2Ir2cO-cS5fngatbEaVXNhyp98rGR2FLMkYWY_oDX-7Yo4wohkeQ_FwSiwwDWvIMGKql63ld4JTgWOA3ODvK7N6_JCP0rvl-QajbROtqg812kZcfEmyBoJOC4vnUWxhD1egY47RpfqnVzATkl4zjYXDRKsYI1PnVil4PPDEEExeBBqFLAe-WeW-OvHGrAeeLAodj6YBmZEAOky3MyhezVyU98aOT0DpJP84qo8FmHl9Lv9jxPUl0vDRE7wXRIJFslpX1oHxJzDo1lk5B8ue9_01G6yCMANfNUtk_r5TF8r2EMo2XptxFuiu4QvHU2UfLwk_43Ub1SNOzoTOPblQH9dmfx4cVc5WhekzDpIRdlX6tSbgj0ac9phkQjXQTLM9jfwkHjUIzqksj7SlZ5y-fPI1M2MJT1_2w6szkY8hFZpi40nxYwmtXc2DrumOvxdafukYsg7ACOGtWBhL19ZAhwk1SQiN5jni0ykeprnDHKnxsg1_DHg3WDGR2aGNuPzKmHlfuv5b7UvttNkBEDay_qz1BkBTMp8xIEJFP0P-WLtVAuGODZvvcdpt5DqoOAgTRTu5aUxcxZFZSYhCW9mkGTV9rKdjZHDALo5Z6yR5N-CIkZOhLoqk"
+            }
+        }
+    },
+    "tenants": {
+        "9aaebde1-21d2-474b-8a5a-88545cf9cdfc": {
+            "eventsLastFetched": "MHwyMDIzLTA2LTE1VDE5OjU5OjA2LjM2OFo=",
+            "dataRegionUrl": "https://api-us03.central.sophos.com",
+            "lastRunAt": 1686859146.4517074
+        }
+    }
+}

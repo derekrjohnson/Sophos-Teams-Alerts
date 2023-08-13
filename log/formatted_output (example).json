@@ -1,0 +1,149 @@
+{
+    "sections":  [
+                     {
+                         "activityTitle":  "Sophos Security Alert",
+                         "facts":  [
+                                       {
+                                           "name":  "Type",
+                                           "value":  "Event::Endpoint::WebControlViolation"
+                                       },
+                                       {
+                                           "name":  "Severity",
+                                           "value":  "low"
+                                       },
+                                       {
+                                           "name":  "Source Info",
+                                           "value":  "@{ip=192.168.100.187}"
+                                       },
+                                       {
+                                           "name":  "Customer ID",
+                                           "value":  "9aaebde1-21d2-474b-8a5a-88545cf9cdfc"
+                                       },
+                                       {
+                                           "name":  "Endpoint ID",
+                                           "value":  "bc1d5dd1-cf36-4262-b4ea-23edced2bfc4"
+                                       },
+                                       {
+                                           "name":  "Endpoint Type",
+                                           "value":  "computer"
+                                       },
+                                       {
+                                           "name":  "URL",
+                                           "value":  null
+                                       },
+                                       {
+                                           "name":  "ID",
+                                           "value":  "5bb423f8-b7fe-437d-b0af-c0a7bf189bf9"
+                                       },
+                                       {
+                                           "name":  "Group",
+                                           "value":  "WEB"
+                                       },
+                                       {
+                                           "name":  "Datastream",
+                                           "value":  "event"
+                                       },
+                                       {
+                                           "name":  "SUSER",
+                                           "value":  "UMFIC\\ttaylor"
+                                       },
+                                       {
+                                           "name":  "RT",
+                                           "value":  "2023-06-14T14:28:59.271Z"
+                                       },
+                                       {
+                                           "name":  "DUID",
+                                           "value":  "5ff5ffcd7dab530ddd48d6f5"
+                                       },
+                                       {
+                                           "name":  "END",
+                                           "value":  "2023-06-14T14:28:52.000Z"
+                                       },
+                                       {
+                                           "name":  "DHOST",
+                                           "value":  "LAPTOP-TTAYLOR"
+                                       }
+                                   ]
+                     }
+                 ],
+    "@context":  "http://schema.org/extensions",
+    "themeColor":  "0076D7",
+    "summary":  "Summary of the message",
+    "@type":  "MessageCard",
+    "markdown":  true
+}
+{
+    "sections":  [
+                     {
+                         "activityTitle":  "Sophos Security Alert",
+                         "facts":  [
+                                       {
+                                           "name":  "Type",
+                                           "value":  "Event::Endpoint::WebControlViolation"
+                                       },
+                                       {
+                                           "name":  "Severity",
+                                           "value":  "low"
+                                       },
+                                       {
+                                           "name":  "Source Info",
+                                           "value":  "@{ip=192.168.100.187}"
+                                       },
+                                       {
+                                           "name":  "Customer ID",
+                                           "value":  "9aaebde1-21d2-474b-8a5a-88545cf9cdfc"
+                                       },
+                                       {
+                                           "name":  "Endpoint ID",
+                                           "value":  "bc1d5dd1-cf36-4262-b4ea-23edced2bfc4"
+                                       },
+                                       {
+                                           "name":  "Endpoint Type",
+                                           "value":  "computer"
+                                       },
+                                       {
+                                           "name":  "URL",
+                                           "value":  null
+                                       },
+                                       {
+                                           "name":  "ID",
+                                           "value":  "5bb423f8-b7fe-437d-b0af-c0a7bf189bf9"
+                                       },
+                                       {
+                                           "name":  "Group",
+                                           "value":  "WEB"
+                                       },
+                                       {
+                                           "name":  "Datastream",
+                                           "value":  "event"
+                                       },
+                                       {
+                                           "name":  "SUSER",
+                                           "value":  "UMFIC\\ttaylor"
+                                       },
+                                       {
+                                           "name":  "RT",
+                                           "value":  "2023-06-14T14:28:59.271Z"
+                                       },
+                                       {
+                                           "name":  "DUID",
+                                           "value":  "5ff5ffcd7dab530ddd48d6f5"
+                                       },
+                                       {
+                                           "name":  "END",
+                                           "value":  "2023-06-14T14:28:52.000Z"
+                                       },
+                                       {
+                                           "name":  "DHOST",
+                                           "value":  "LAPTOP-TTAYLOR"
+                                       }
+                                   ]
+                     }
+                 ],
+    "@context":  "http://schema.org/extensions",
+    "themeColor":  "0076D7",
+    "summary":  "Summary of the message",
+    "@type":  "MessageCard",
+    "markdown":  true
+}
+
